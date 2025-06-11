@@ -37,7 +37,7 @@ labels = [f"lsd_{i}" for i in range(10)]+[f"aff_{i}" for i in range(3)]
 #%%
 
 
-yaml_file = "/groups/cellmap/cellmap/zouinkhim/salevary/yamls/datasets_generated.yaml"
+yaml_file = "/groups/espinosamedina/home/aurrecoecheas/jrc-muss-pancreas-innervation/train_fly_model/yamls/datasets_generated_all.yaml"
 iterations = 1000000
 
 
