@@ -31,7 +31,7 @@ N_AFFINITIES = len(affinities_map)
 
 #%%
 #%%
-labels = [f"lsd_{i}" for i in range(10)]+[f"aff_{i}" for i in range(3)]
+labels = [“axons”]
 
 
 #%%
