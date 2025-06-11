@@ -12,10 +12,10 @@ datasets:
     - 38000
     raw: /nrs/cellmap/data/jrc_mus-pancreas-5/jrc_mus-pancreas-5.zarr/recon-1/em/fibsem-uint16
     crops:
-      crop2: /nrs/cellmap/aurrecoecheas/Paintera/Finalcrops/Pancreas5/Crops/crop2.zarr/
-      crop3: /nrs/cellmap/aurrecoecheas/Paintera/Finalcrops/Pancreas5/Crops/crop3.zarr/
-      crop5: /nrs/cellmap/aurrecoecheas/Paintera/Finalcrops/Pancreas5/Crops/crop5.zarr/
-      crop6: /nrs/cellmap/aurrecoecheas/Paintera/Finalcrops/Pancreas5/Crops/crop6.zarr/
+      crop2: /nrs/cellmap/aurrecoecheas/Paintera/Finalcrops/Pancreas5/Crops/crop2/
+      crop3: /nrs/cellmap/aurrecoecheas/Paintera/Finalcrops/Pancreas5/Crops/crop3/
+      crop5: /nrs/cellmap/aurrecoecheas/Paintera/Finalcrops/Pancreas5/Crops/crop5/
+      crop6: /nrs/cellmap/aurrecoecheas/Paintera/Finalcrops/Pancreas5/Crops/crop6/
       # CHECK because crops are not zarr
       # crop993: /nrs/cellmap/data/jrc_mus-pancreas-5/jrc_mus-pancreas-5.zarr/recon-1/labels/groundtruth/crop993/
   
@@ -25,4 +25,4 @@ datasets:
     - 255
     raw: /nrs/cellmap/data/jrc_mus-pancreas-6/jrc_mus-pancreas-6.zarr/recon-1/em/fibsem-uint8
     crops:
-      crop1: /nrs/cellmap/aurrecoecheas/Paintera/Finalcrops/Pancreas5/Crops/crop1.zarr/
+      crop1: /nrs/cellmap/aurrecoecheas/Paintera/Finalcrops/Pancreas5/Crops/crop1/
