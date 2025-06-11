@@ -14,7 +14,7 @@ if torch.cuda.is_available():
 
 logger = logging.getLogger(__name__)
 
-log_dir = "/nrs/cellmap/zouinkhim/tensorboard/panc_lsds"
+log_dir = "/nrs/cellmap/aurrecoecheas/tensorboard/panc_lsds"
 
 voxel_size = (16, 16, 16)
 l_rate = 0.5e-5
