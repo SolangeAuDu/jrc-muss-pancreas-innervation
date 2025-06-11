@@ -31,7 +31,7 @@ N_AFFINITIES = len(affinities_map)
 
 #%%
 #%%
-labels = [“axon”]
+labels = ['axon']
 
 
 #%%
