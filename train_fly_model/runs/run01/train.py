@@ -49,7 +49,7 @@ with open(yaml_file, "r") as data_yaml:
 from isolated_unet import UNetLSD, load_checkpoint_from_path
 
 model = UNetLSD()
-status = load_checkpoint_from_path(model, "/groups/cellmap/cellmap/zouinkhim/lsds_work/398151")
+status = load_checkpoint_from_path(model, "/groups/cellmap/cellmap/aurrecoecheas/lsds_work/398151")
 print(status)  # Should print "<All keys matched successfully>"
 
 x = torch.rand((1, 1, 196, 196, 196))
