@@ -73,4 +73,6 @@ l_rate=l_rate,
 log_dir=log_dir,
 affinities = True, 
 affinities_map = affinities_map,
+input_size=input_size,
+output_size=output_size   
 )
