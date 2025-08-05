@@ -14,7 +14,7 @@ datasets:
     crops:
       crop2: /nrs/cellmap/aurrecoecheas/Paintera/Finalcrops/Pancreas5/Crops/crop2.zarr/
       crop3: /nrs/cellmap/aurrecoecheas/Paintera/Finalcrops/Pancreas5/Crops/crop3.zarr/
-      #crop5: /nrs/cellmap/aurrecoecheas/Paintera/Finalcrops/Pancreas5/Crops/crop5.zarr/
+      crop5: /nrs/cellmap/aurrecoecheas/Paintera/Finalcrops/Pancreas5/Crops/crop5.zarr/
       #crop6: /nrs/cellmap/aurrecoecheas/Paintera/Finalcrops/Pancreas5/Crops/crop6.zarr/
       # CHECK because crops are not zarr
       # crop993: /nrs/cellmap/data/jrc_mus-pancreas-5/jrc_mus-pancreas-5.zarr/recon-1/labels/groundtruth/crop993/
